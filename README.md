@@ -4,7 +4,7 @@
 ## add plug in for vscode
 ### vuetur, material icon, night owl,live server, auto close
 
-#vue cli
+# VUE CLI
 ## Setup environment
 ### in terminal check two versions
 1. node -v it has to > 10.x
@@ -17,18 +17,23 @@
 |v2.x|vue init
 
 ### creating new vue
+```
 vue create vue-cli
 cd vue-cli
 npm run serve
+```
 
 ### create component tag rules
 Following three are all same
-* \<hello-world>connect by dash(-)\</hello-world>
-* \<HelloWorld>Pascal notation\<HelloWorld>
-* \<HelloWrold/>
+```
+<hello-world>connect by dash(-)</hello-world>
+<HelloWorld>Pascal notation<HelloWorld>
+<HelloWrold/>
+```
 
 # Axio
 ## install axio from terminal
-* npm i axios : i=install
-
+```
+npm i axios : i=install
+```
 * Read offical document
