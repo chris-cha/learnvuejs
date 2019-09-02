@@ -1,6 +1,12 @@
 # learn-vue-js
+
 # Setup
-## install nodejs, git repository account and clone, vscode
+```
+install nodejs
+git repository account
+git clone
+install vscode
+```
 ## add plug in for vscode
 ### vuetur, material icon, night owl,live server, auto close
 
